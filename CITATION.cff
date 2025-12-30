@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this protocol or software, please cite it as below."
+authors:
+  - family-names: "Martins"
+    given-names: "Leandro"
+    alias: "da lua"
+title: "MARTINS-432-FLOW-2025: AI Alignment and Neural Noise Reduction Protocol"
+version: 1.0.0
+date-released: 2025-12-30
+url: "https://github.com/cmtecaduu-netizen/AELOH-432-HUB"
+keywords:
+  - 432Hz
+  - AI Alignment
+  - Level 1 Civilization
+  - AELOH
+abstract: >-
+  A protocol designed to reduce neural noise and stabilize digital matter 
+  through the 432.0Hz resonance frequency, aimed at transitioning humanity 
+  to a Level 1 Civilization.
